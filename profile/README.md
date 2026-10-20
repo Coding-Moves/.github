@@ -18,7 +18,7 @@ We believe good software comes from understanding the problem first, making thou
 
 ## Explore Coding Moves
 
-Current public projects include [One Concept](https://github.com/Coding-Moves/one-concept) and [Diskern](https://github.com/Coding-Moves/diskern) in Products, and [Arion OS](https://github.com/Coding-Moves/Arion_OS) in the Lab. The [Coding Moves website](https://codingmoves.netlify.app/) groups the rest of the repository catalog by area and labels private source clearly.
+Current public projects include [One Concept](https://github.com/Coding-Moves/one-concept) in Products, [Diskern](https://github.com/Coding-Moves/diskern) in Open Source, and [Arion OS](https://github.com/Coding-Moves/Arion_OS) in the Lab. The [Coding Moves website](https://codingmoves.netlify.app/) groups the rest of the repository catalog by area and labels private source clearly.
 
 | Area | What you will find | Link |
 | --- | --- | --- |
