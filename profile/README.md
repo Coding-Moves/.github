@@ -18,19 +18,19 @@ We believe good software comes from understanding the problem first, making thou
 
 ## Explore Coding Moves
 
-Current public projects include [One Concept](https://github.com/Coding-Moves/one-concept) in Products, [Diskern](https://github.com/Coding-Moves/diskern) in Open Source, and [Arion OS](https://github.com/Coding-Moves/Arion_OS) in the Lab. The [Coding Moves website](https://codingmoves.netlify.app/) groups the rest of the repository catalog by area and labels private source clearly.
+Current public projects include [One Concept](https://github.com/Coding-Moves/one-concept) in Products, [Diskern](https://github.com/Coding-Moves/diskern) in Open Source, and [Arion OS](https://github.com/Coding-Moves/Arion_OS) in the Lab. The [Coding Moves website](https://codingmoves.com/) groups the rest of the repository catalog by area and labels private source clearly.
 
 | Area | What you will find | Link |
 | --- | --- | --- |
-| **Coding Moves Website** | The main home for the Coding Moves identity, current work, and updates. | [Visit the website](https://codingmoves.netlify.app/) |
-| **Coding Moves Open Source** | Public repositories, community tools, contributions, and projects others can inspect, use, or improve under their licenses. | [Explore open source](https://codingmoves.netlify.app/open-source/) |
-| **Coding Moves Lab** | Experiments, prototypes, technical explorations, and early ideas—especially in software, AI, and machine learning. | [Explore the lab](https://codingmoves.netlify.app/lab/) |
-| **Coding Moves Services** | Software development services for businesses, organizations, and individuals who need a practical solution to a real problem. | [Explore services](https://codingmoves.netlify.app/services/) |
-| **Coding Moves Products** | Software products and reusable tools developed under Coding Moves. | [Explore products](https://codingmoves.netlify.app/products/) |
-| **Research and Experiments** | Notes, investigations, prototypes, and lessons from trying out technical ideas. | [Explore research](https://codingmoves.netlify.app/research/) |
-| **Coding Moves Academy** | Tutorials, beginner guides, courses, and videos that teach by building. | [Explore the academy](https://codingmoves.netlify.app/academy/) |
-| **About Coding Moves** | Our story, approach, and the people behind the work. | [Learn about us](https://codingmoves.netlify.app/about/) |
-| **Contact and Project Inquiries** | A way to discuss a project, ask a question, or explore working together. | [Get in touch](https://codingmoves.netlify.app/services/contact/) |
+| **Coding Moves Website** | The main home for the Coding Moves identity, current work, and updates. | [Visit the website](https://codingmoves.com/) |
+| **Coding Moves Open Source** | Public repositories, community tools, contributions, and projects others can inspect, use, or improve under their licenses. | [Explore open source](https://codingmoves.com/open-source/) |
+| **Coding Moves Lab** | Experiments, prototypes, technical explorations, and early ideas—especially in software, AI, and machine learning. | [Explore the lab](https://codingmoves.com/lab/) |
+| **Coding Moves Services** | Software development services for businesses, organizations, and individuals who need a practical solution to a real problem. | [Explore services](https://codingmoves.com/services/) |
+| **Coding Moves Products** | Software products and reusable tools developed under Coding Moves. | [Explore products](https://codingmoves.com/products/) |
+| **Research and Experiments** | Notes, investigations, prototypes, and lessons from trying out technical ideas. | [Explore research](https://codingmoves.com/research/) |
+| **Coding Moves Academy** | Tutorials, beginner guides, courses, and videos that teach by building. | [Explore the academy](https://codingmoves.com/academy/) |
+| **About Coding Moves** | Our story, approach, and the people behind the work. | [Learn about us](https://codingmoves.com/about/) |
+| **Contact and Project Inquiries** | A way to discuss a project, ask a question, or explore working together. | [Get in touch](https://codingmoves.com/services/contact/) |
 
 ## 1. Coding Moves Open Source
 
@@ -136,7 +136,7 @@ The technologies used will vary from project to project. We work with tools that
 
 ## Working with us
 
-If you have a project idea, a software problem, or a possible collaboration, use the [Services contact form](https://codingmoves.netlify.app/services/contact/). It helps to include:
+If you have a project idea, a software problem, or a possible collaboration, use the [Services contact form](https://codingmoves.com/services/contact/). It helps to include:
 
 - A short description of the problem.
 - Who will use the software.
@@ -158,16 +158,16 @@ We would rather show real work and communicate its status clearly than make prom
 
 For projects where it is appropriate and agreed, we may include a credit such as:
 
-**Developed by [Coding Moves](https://codingmoves.netlify.app/)**
+**Developed by [Coding Moves](https://codingmoves.com/)**
 
 The final attribution and its placement depend on the project agreement. Client branding, ownership terms, and any white-label requirements take priority where agreed. Attribution does not, by itself, determine who owns the software.
 
 ## Contact
 
-- **Website:** [codingmoves.netlify.app](https://codingmoves.netlify.app/)
-- **Services:** [Coding Moves Services](https://codingmoves.netlify.app/services/)
+- **Website:** [codingmoves.com](https://codingmoves.com/)
+- **Services:** [Coding Moves Services](https://codingmoves.com/services/)
 - **GitHub organization:** [Coding Moves on GitHub](https://github.com/Coding-Moves)
-- **Project inquiries:** [Services contact form](https://codingmoves.netlify.app/services/contact/)
+- **Project inquiries:** [Services contact form](https://codingmoves.com/services/contact/)
 
 ---
 
